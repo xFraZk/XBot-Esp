@@ -1,6 +1,6 @@
 
 # Use the official Node.js image as the base image:
-FROM node18
+FROM node:14
 
 # Set the working directory in the container
 WORKDIR /app
@@ -14,7 +14,7 @@ RUN npm ci --only=production
 # Expose a TCP port for the container
 # Replace <PORT_NUMBER> with the actual port number your application listens on
 # Exposing a specific port is necessary in order for the Docker container to be accessible from outside
-EXPOSE <PORT_NUMBER>
+EXPOSE 3000
 
 # Define the entry point for the container
 CMD ["npm", "start"]
