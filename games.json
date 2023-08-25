@@ -1,0 +1,257 @@
+{
+    "juegos": [
+      {
+        "nombre": "Halo: The Master Chief Collection",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2014"
+      },
+      {
+        "nombre": "Forza Horizon 4",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Conducción",
+        "lanzamiento": "2018"
+      },
+      {
+        "nombre": "Gears 5",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Red Dead Redemption 2",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2018"
+      },
+      {
+        "nombre": "The Witcher 3: Wild Hunt",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "RPG",
+        "lanzamiento": "2015"
+      },
+      {
+        "nombre": "Assassin's Creed Valhalla",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Minecraft",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Sandbox",
+        "lanzamiento": "2011"
+      },
+      {
+        "nombre": "Call of Duty: Warzone",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "FIFA 21",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Deportes",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "NBA 2K21",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Deportes",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Grand Theft Auto V",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2013"
+      },
+      {
+        "nombre": "Mortal Kombat 11",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Lucha",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Resident Evil 7: Biohazard",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Survival horror",
+        "lanzamiento": "2017"
+      },
+      {
+        "nombre": "Far Cry 5",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2018"
+      },
+      {
+        "nombre": "The Elder Scrolls V: Skyrim",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "RPG",
+        "lanzamiento": "2011"
+      },
+      {
+        "nombre": "Titanfall 2",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2016"
+      },
+      {
+        "nombre": "Watch Dogs: Legion",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Sea of Thieves",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Aventura",
+        "lanzamiento": "2018"
+      },
+      {
+        "nombre": "DOOM Eternal",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Borderlands 3",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Madden NFL 21",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Deportes",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Rocket League",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Deportes",
+        "lanzamiento": "2015"
+      },
+      {
+        "nombre": "Fallout 4",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "RPG",
+        "lanzamiento": "2015"
+      },
+      {
+        "nombre": "Destiny 2",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2017"
+      },
+      {
+        "nombre": "Overwatch",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2016"
+      },
+      {
+        "nombre": "Need for Speed Heat",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Conducción",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Star Wars Jedi: Fallen Order",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Tom Clancy's Rainbow Six Siege",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2015"
+      },
+      {
+        "nombre": "Assassin's Creed Odyssey",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2018"
+      },
+      {
+        "nombre": "Crash Bandicoot 4: It's About Time",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Plataformas",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Dying Light 2",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Survival horror",
+        "lanzamiento": "2022"
+      },
+      {
+        "nombre": "The Division 2",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Cyberpunk 2077",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "RPG",
+        "lanzamiento": "2020"
+      },
+      {
+        "nombre": "Mortal Kombat X",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Lucha",
+        "lanzamiento": "2015"
+      },
+      {
+        "nombre": "Control",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Resident Evil 2 Remake",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Survival horror",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Battlefield 1",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2016"
+      },
+      {
+        "nombre": "Assassin's Creed Origins",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2017"
+      },
+      {
+        "nombre": "The Outer Worlds",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "RPG",
+        "lanzamiento": "2019"
+      },
+      {
+        "nombre": "Bioshock: The Collection",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Shooter",
+        "lanzamiento": "2016"
+      },
+      {
+        "nombre": "F1 2021",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Conducción",
+        "lanzamiento": "2021"
+      },
+      {
+        "nombre": "Sekiro: Shadows Die Twice",
+        "plataformas": ["Xbox One", "Xbox Series"],
+        "genero": "Acción y aventura",
+        "lanzamiento": "2019"
+      }
+    ]
+  }
+  
